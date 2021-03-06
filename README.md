@@ -1,4 +1,3 @@
-# pImpactR
-python interface for ImpactR
+# Beam Prfodiler
+Measure beam profile using kicked beam centroid decoherence
 
-see [tutorial/begin](./tutorial/begin.ipynb)
