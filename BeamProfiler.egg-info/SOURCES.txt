@@ -1,0 +1,9 @@
+README.md
+setup.py
+BeamProfiler/BeamProfiler.py
+BeamProfiler/__init__.py
+BeamProfiler.egg-info/PKG-INFO
+BeamProfiler.egg-info/SOURCES.txt
+BeamProfiler.egg-info/dependency_links.txt
+BeamProfiler.egg-info/not-zip-safe
+BeamProfiler.egg-info/top_level.txt

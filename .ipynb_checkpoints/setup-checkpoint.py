@@ -31,7 +31,7 @@ setup(
     author_email = "kilean@lbl.gov",
     description = ("Beam profile measurement using kicked beam decoherence BPM signal"),
     license = "Lawrence Berkeley National Laboratory",
-    keywords = "IMPACT",
+    keywords = "BeamProfiler",
     url = "",
     packages=['BeamProfiler'],
     #package_data={'pImpactR': ['xmain']},
